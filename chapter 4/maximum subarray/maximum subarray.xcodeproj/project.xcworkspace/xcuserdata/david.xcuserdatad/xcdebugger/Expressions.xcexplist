@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "FIND_MAXIMUM_SUBARRAY(std::__1::vector&lt;double, std::__1::allocator&lt;double&gt; &gt;, int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p_nHigh/2.0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
